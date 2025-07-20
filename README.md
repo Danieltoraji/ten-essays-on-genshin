@@ -1,2 +1,3 @@
 # ten-essays-on-genshin
 钉小呆的《原神十论》在Github上实时更新，欢迎各位赛博监工！
+之所以用Github，是因为不想用某某盘......
